@@ -1,6 +1,6 @@
 ---
 title: "FINC 780: Mean-Variance Optimal Risky Portfolio Using Simulation"
-author: "B. Umesh, B.L. Dang, M. Hsu, S. Rajesh Panicker, J. Sarun"
+author: "U. Banumaiah Umesh, B.L. Dang, M. Hsu, S. Rajesh Panicker, J. Sarun"
 date: "November 2nd, 2024"
 output: pdf_document
 ---
